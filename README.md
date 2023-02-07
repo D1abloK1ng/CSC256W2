@@ -1,1 +1,1 @@
-# CSC256W2
+This is a website with basic information about me.
