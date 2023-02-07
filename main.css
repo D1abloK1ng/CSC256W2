@@ -1,0 +1,21 @@
+html{
+    background-image: url(Selfie.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100%;
+    background-position: center;
+}
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+    font-size: xx-large;
+    background-color: transparent;
+}
+a{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+}
